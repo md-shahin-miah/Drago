@@ -1,70 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="NONE" />
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71e9583d-22c3-4aca-a435-29a5624426ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/tireServiceview.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drago/lib/view/expenses/edit_cost.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/controller/vehicle_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/controller/vehicle_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/global/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/global/constant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/maintenance_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/provider/maintenance_provider.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/documents_add.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/documents_add.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/controlView.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/controlView.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/controls_add.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/controls_add.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/service_add.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/service_add.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/serviceview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/serviceview.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/tire_service_add.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenance/tire_service_add.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenancetab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/screens/maintenancetab_main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/add_vehicle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/add_vehicle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_cost.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/expenses/add_cost.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_panalty.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/expenses/add_panalty.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_refuel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/expenses/add_refuel.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/homepage_main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/register.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/vehicle_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/view/vehicle_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/services_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/drago/lib/widget/services_bottom_sheet.dart" afterDir="false" />
-    </list>
+    <list default="true" id="97030059-e18c-4bb9-a37c-add3390b925d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/drago" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1theHns5S43oP1HrKk1FhJvikOX" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="71e9583d-22c3-4aca-a435-29a5624426ea" name="Default Changelist" comment="" />
-      <created>1623225662112</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1623225662112</updated>
-    </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="12" key="SettingsEditor" timestamp="1640932409134">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1640932409134" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rebased to main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rebased to main" />
   </component>
 </project>
