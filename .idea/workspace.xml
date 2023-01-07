@@ -4,179 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97030059-e18c-4bb9-a37c-add3390b925d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/kotlin/com/example/drago/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/assets/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/assets/images/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/assets/images/logo_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/assets/images/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Podfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/control_bottom_sheet.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/controller/auth.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/controller/vehicle_controller.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/global/constant.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/helper/utility_helper.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/helper/validation_helper.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/model/auth_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/model/maintenance_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/model/vehicle_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/exp_cost.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/exp_maintenance.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/exp_penalty.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/exp_refuel.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/expense.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/podo/vehicle.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/control_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/control_reminder_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/documents_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/insurence_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/others_expiries_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/revision_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/serviceslist_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/tax_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/pojo/tire_service_pojo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/control_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/control_reminder_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/documents_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/insurence_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/maintenance_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/others_expiries_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/revision_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/tax_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/provider/tyre_service_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/documents_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/control_reminder_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/control_reminder_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/insurance_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/insurance_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/insurence_company_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/others_expiries_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/others_expiries_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/revision_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/revision_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/tax_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries/tax_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/expiries_tab.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/controlView.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/controls_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/service_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/serviceview.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/tireServiceview.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/tire_service_add.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenance/tire_service_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/screens/maintenancetab_main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/add_vehicle.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_cost.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_panalty.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/add_refuel.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/expenses/edit_cost.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/homepage_main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/login.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/profile.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/register.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/splash_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/view/vehicle_list.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/components_list.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/custom_appbar.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/documents_item.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/documents_view.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/lib/widget/services_bottom_sheet.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drago/test/widget_test.dart" beforeDir="false" />
+    <list default="true" id="5443b1b7-1798-4b05-8a27-86e3cb94d533" name="Default Changelist" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/drago.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/drago.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/drago" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
+  <component name="ProjectId" id="1theHns5S43oP1HrKk1FhJvikOX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="dart.analysis.tool.window.visible" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="main merger">
-      <created>1672223424642</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672223424642</updated>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e9583d-22c3-4aca-a435-29a5624426ea" name="Default Changelist" comment="" />
+      <created>1623225662112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623225662112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,10 +53,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rebased to main" />
-    <MESSAGE value="main merger" />
-    <option name="LAST_COMMIT_MESSAGE" value="main merger" />
+  <component name="WindowStateProjectService">
+    <state x="184" y="12" key="SettingsEditor" timestamp="1640932409134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1640932409134" />
   </component>
 </project>
