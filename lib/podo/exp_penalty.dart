@@ -8,6 +8,7 @@ class ExpensePenalty {
   String _paymentDate;
   String _notes;
   String _car_id;
+  //
 
   String get_car_id() {
     return this._car_id;
